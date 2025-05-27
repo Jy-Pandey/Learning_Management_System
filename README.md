@@ -81,6 +81,6 @@ npm start
 ![Screenshot 7](client/public/CourseProgress.png)
 
 ### Author
-Jyoti Pandey
+Jyoti Pandey | 
 MERN stack developer
 
